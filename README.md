@@ -18,7 +18,22 @@ Gestión de datos con CRUD utilizando el stack MERN 🔄
 
 ## Instalación
 
-Instrucciones de instalación...
+## Installation
+
+Clonar el proyecto
+
+```bash
+  git clone https://github.com/jamaza7/crud-mongodb.git
+
+```
+
+Instalacion del proyecto via npm
+
+```bash
+  cd crud-mongodb
+  npm install
+
+```
 
 ## Uso
 
