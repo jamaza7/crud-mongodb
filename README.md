@@ -19,3 +19,27 @@ Gestión de datos con CRUD utilizando el stack MERN 🔄
 ## Instalación
 
 Instrucciones de instalación...
+
+## Uso
+
+Instrucciones de uso...
+
+### Ejemplos
+
+Ejemplos de uso...
+
+## Configuración
+
+Instrucciones de configuración...
+
+## Contribución
+
+Instrucciones para contribuir...
+
+## Créditos
+
+Agradecimientos...
+
+## Licencia
+
+Este proyecto está bajo la Licencia XYZ. Consulta el archivo [LICENSE](LICENSE) para más detalles.
