@@ -40,7 +40,9 @@ Instalacion del proyecto via npm
 Para configurar la conexión a la base de datos MongoDB asegurese de tener una cuenta en [MongoDB Atlas](https://www.mongodb.com/atlas/database) , siga estos pasos:
 
 1. Despues de crear una cuenta en mongodb atlas, debera crear un nuevo proyecto
-   ![Mongo](src/assets/images/create_database_atlas.png)
+   ![Mongodb](src/assets/images/create_database_atlas.png)
+
+1.2 Siguiente paso se procede a conectar la base de datos ![conectar](src/assets/images/conectar.png)
 
 2. En el archivo `.env.example` configure las variables de entorno:
 

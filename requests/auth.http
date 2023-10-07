@@ -5,9 +5,9 @@ POST {{api}}/register
 Content-Type: application/json
 
 {
-  "username": "ryan2",
-  "email": "ryan2@gmail.com",
-  "password": "ryanpsasword"
+  "username": "jordymaza",
+  "email": "jordymaza@gmail.com",
+  "password": "passwalejandro"
 }
 
 ### post login
@@ -15,8 +15,8 @@ POST {{api}}/login
 Content-Type: application/json
 
 {
-  "email": "ryan2@gmail.com",
-  "password": "ryanpsasword"
+  "email": "jordymaza@gmail.com",
+  "password": "passwalejandro"
 }
 
 ### verified token

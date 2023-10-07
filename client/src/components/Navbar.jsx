@@ -7,7 +7,7 @@ export function Navbar() {
   console.log(isAuthenticated, user)
 
   return (
-    <nav className="bg-zinc-700 my-3 flex justify-between py-5 px-10 rounded-lg">
+    <nav className="bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 my-3 flex justify-between py-5 px-10 rounded-lg">
       <h1 className="text-2xl font-bold">
         <Link to={isAuthenticated ? "/tasks" : "/"}>Task Manager</Link>
       </h1>
