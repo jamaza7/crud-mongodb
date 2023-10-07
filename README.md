@@ -42,9 +42,12 @@ Para configurar la conexión a la base de datos MongoDB asegurese de tener una c
 1. Despues de crear una cuenta en mongodb atlas, debera crear un nuevo proyecto
    ![Mongodb](src/assets/images/create_database_atlas.png)
 
-1.2 Siguiente paso se procede a conectar la base de datos ![conectar](src/assets/images/conectar.png)
+2. Siguiente paso se procede a conectar la base de datos ![conectar](src/assets/images/conectar.png)
 
-2. En el archivo `.env.example` configure las variables de entorno:
+3. Se crea un usuario, contraseña y ip de la base de datos ![usario_password](src/assets/images/username_password.png)
+   ![usario_password](src/assets/images/ip.png)
+
+4. En el archivo `.env.example` configure las variables de entorno:
 
    ```env
    // env.example
