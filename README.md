@@ -44,10 +44,9 @@ Para configurar la conexión a la base de datos MongoDB asegurese de tener una c
 
 2. Siguiente paso se procede a conectar la base de datos ![conectar](src/assets/images/conectar.png)
 
-3. Se procede a conectar la base de datos con la herramienta vscode ![vscode](src/assets/images/vscode.png)
+3. Se crea un usuario, contraseña y ip de la base de datos ![usario_password](src/assets/images/username_password.png) ![usario_ping](src/assets/images/ip.png)
 
-4. Se crea un usuario, contraseña y ip de la base de datos ![usario_password](src/assets/images/username_password.png)
-   ![usario_password](src/assets/images/ip.png)
+4. Se procede a conectar la base de datos con la herramienta vscode ![vscode](src/assets/images/vscode.png)
 
 5. En el archivo `.env.example` configure las variables de entorno:
 
