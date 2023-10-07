@@ -97,7 +97,7 @@ Al ejecutar se le presentara lo siguiente
 
 ## Créditos
 
-Agradecimientos al **\*Mgs. Mauro Rosas\_** Lara por los conocimientos impartidos
+Agradecimientos al **Mgs. Mauro Rosas** Lara por los conocimientos impartidos
 
 ## Licencia
 
