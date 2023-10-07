@@ -1,6 +1,6 @@
-### CRUD with MONGODB
+### CRUD con MONGODB
 
-Gestión de datos con CRUD utilizando el stack MERN 🔄
+Un sencillo sistema CRUD con React, Nextjs y MongoDB 🚀
 
 ## Authores
 
@@ -10,15 +10,13 @@ Gestión de datos con CRUD utilizando el stack MERN 🔄
 ## Tabla de Contenidos
 
 - [Instalación](#instalación)
-- [Configuracion](#Configuración)
+- [Configuracion](#configuración)
   - [Ejemplos](#ejemplos)
-- [---](#configuración)
+- [Capturas](#capturas)
 - [Créditos](#créditos)
 - [Licencia](#licencia)
 
 ## Instalación
-
-## Installation
 
 Clonar el proyecto
 
@@ -65,11 +63,25 @@ Para configurar la conexión a la base de datos MongoDB asegurese de tener una c
 
 ### Ejemplos
 
-Ejemplos de uso...
+Para ejecutar el proyecto en el lado del servidor debera ejecutar el comando
 
-## ---
+```bash
+    npm run dev
 
-Instrucciones de configuración...
+```
+
+Para ejecutar el proyecto en el lado del cliente debera navegar hasta la carpeta `client`
+
+```bash
+    cd client
+    npm run dev
+
+```
+
+## Capturas
+
+Al ejecutar se le presentara lo siguiente ![resultado](src/assets/images/capture_proyecto_acabado.png)
+![login](src/assets/images/login_proyecto.png)
 
 ## Contribución
 
