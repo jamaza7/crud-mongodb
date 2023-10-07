@@ -36,7 +36,6 @@ Instalacion del proyecto via npm
 ## Configuración
 
 Para configurar la conexión a la base de datos MongoDB asegurese de tener una cuenta en
-
 [MongoDB Atlas](https://www.mongodb.com/atlas/database) , siga estos pasos:
 
 1. Despues de crear una cuenta en mongodb atlas, debera crear un nuevo proyecto
@@ -98,8 +97,8 @@ Al ejecutar se le presentara lo siguiente
 
 ## Créditos
 
-Agradecimientos al Mgs. Mauro Rosas Lara por los conocimientos impartidos
+Agradecimientos al **\*Mgs. Mauro Rosas\_** Lara por los conocimientos impartidos
 
 ## Licencia
 
-Este proyecto está bajo la Licencia XYZ. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia Estudiantil del Instituto Japon.
