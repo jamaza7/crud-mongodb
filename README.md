@@ -35,14 +35,23 @@ Instalacion del proyecto via npm
 
 ## Configuración
 
-Para configurar la conexión a la base de datos MongoDB asegurese de tener una cuenta en [MongoDB Atlas](https://www.mongodb.com/atlas/database) , siga estos pasos:
+Para configurar la conexión a la base de datos MongoDB asegurese de tener una cuenta en
+
+[MongoDB Atlas](https://www.mongodb.com/atlas/database) , siga estos pasos:
 
 1. Despues de crear una cuenta en mongodb atlas, debera crear un nuevo proyecto
+
    ![Mongodb](src/assets/images/create_database_atlas.png)
 
-2. Siguiente paso se procede a conectar la base de datos ![conectar](src/assets/images/conectar.png)
+2. Siguiente paso se procede a conectar la base de datos
 
-3. Se crea un usuario, contraseña y ip de la base de datos ![usario_password](src/assets/images/username_password.png) ![usario_ping](src/assets/images/ip.png)
+![conectar](src/assets/images/conectar.png)
+
+3. Se crea un usuario, contraseña y ip de la base de datos
+
+![usario_password](src/assets/images/username_password.png)
+
+![usario_ping](src/assets/images/ip.png)
 
 4. Se procede a conectar la base de datos con la herramienta vscode, se le genera un link debera copiarlo ![vscode](src/assets/images/vscode.png)
 
@@ -87,13 +96,9 @@ Al ejecutar se le presentara lo siguiente
 ![resultado](src/assets/images/capture_proyecto_acabado.png)
 ![login](src/assets/images/login_proyecto.png)
 
-## Contribución
-
-Instrucciones para contribuir...
-
 ## Créditos
 
-Agradecimientos...
+Agradecimientos al Mgs. Mauro Rosas Lara por los conocimientos impartidos
 
 ## Licencia
 
