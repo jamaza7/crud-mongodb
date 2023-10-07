@@ -46,20 +46,22 @@ Para configurar la conexión a la base de datos MongoDB asegurese de tener una c
 
 3. Se crea un usuario, contraseña y ip de la base de datos ![usario_password](src/assets/images/username_password.png) ![usario_ping](src/assets/images/ip.png)
 
-4. Se procede a conectar la base de datos con la herramienta vscode ![vscode](src/assets/images/vscode.png)
+4. Se procede a conectar la base de datos con la herramienta vscode, se le genera un link debera copiarlo ![vscode](src/assets/images/vscode.png)
 
-5. En el archivo `.env.example` configure las variables de entorno:
+5. En el archivo `.env.example` configure las variables de entorno, debera pegar la cadena de conexion que se le genero:
 
    ```env
    // env.example
     PORT=4000
-    MONGODB_URI=mongodb+srv://jamaza:WM3OBQQtvUzMzugz@cluster0.9mjhgh2.mongodb.net/mern-tasks
+    MONGODB_URI=mongodb+srv://ejemplo:<password>@cluster0.onn2bu3.mongodb.net/ejemploDB
     TOKEN_SECRET=mysecret
     FRONTEND_URL=http://localhost:5173
 
      // Otras opciones de configuración
    ;
    ```
+
+6. Le deberia quedar asi ![resultado](src/assets/images/configurar_env.png)
 
 ### Ejemplos
 
