@@ -59,7 +59,9 @@ Para configurar la conexión a la base de datos MongoDB asegurese de tener una c
    ;
    ```
 
-6. Le deberia quedar asi ![resultado](src/assets/images/configurar_env.png)
+6. Le deberia quedar asi
+
+![resultado](src/assets/images/configurar_env.png)
 
 ### Ejemplos
 
@@ -80,7 +82,9 @@ Para ejecutar el proyecto en el lado del cliente debera navegar hasta la carpeta
 
 ## Capturas
 
-Al ejecutar se le presentara lo siguiente ![resultado](src/assets/images/capture_proyecto_acabado.png)
+Al ejecutar se le presentara lo siguiente
+
+![resultado](src/assets/images/capture_proyecto_acabado.png)
 ![login](src/assets/images/login_proyecto.png)
 
 ## Contribución
